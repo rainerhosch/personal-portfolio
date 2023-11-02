@@ -23,8 +23,8 @@ module.exports = {
     },
     colors: {
       ...colors,
-      primary: colors.purple,
-      secondary: colors.pink,
+      primary: colors.cyan,
+      secondary: colors.purple,
     },
     screens: {
       xs: "320px",

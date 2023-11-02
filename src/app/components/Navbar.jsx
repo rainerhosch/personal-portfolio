@@ -27,7 +27,7 @@ const Navbar = () => {
 
   return (
     <nav className="fixed mx-auto border border-[#33353F] top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-100">
-      <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto px-1 py-2">
+      <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto  py-2 px-1 lg:px-14">
         <Link href={"/"} className="text-2xl md:text-4xl text-white font-bold">
         <img
           src="/images/logo-new-1000x300-white.svg"
