@@ -5,8 +5,17 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Rizky Oktan Official Personal Website",
-  description: "💬 Instagram: @kaleng.konguann | 🦜Twitter: @onchainmfer",
+  // title: "Rizky Oktan Official Personal Website",
+  // description: "💬 Instagram: @kaleng.konguann | 🦜Twitter: @onchainmfer",
+  twitter: {
+    card: "summary_large_image",
+    title: "Next.js",
+    description: "The React Framework for the Web",
+    siteId: "1467726470533754880",
+    creator: "@nextjs",
+    creatorId: "1467726470533754880",
+    images: ["https://nextjs.org/og.png"],
+  },
   // images: ['https://rzoktan.tech/images/logo-new-black.png'],
 };
 
