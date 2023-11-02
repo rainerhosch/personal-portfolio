@@ -27,7 +27,8 @@ export default function RootLayout({ children }) {
         <meta property="og:type" content="article" />
         <meta
           property="og:image"
-          content="https://rzoktan.tech/images/logo-new-black.png"
+          content="https://flappyowl.vercel.app/newPict400x400-2.png"
+          // content="https://rzoktan.tech/images/logo-new-black.png"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="icon" href="/favicon.ico" />
