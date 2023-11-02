@@ -11,8 +11,8 @@ const projectsData = [
     description: "Website portfolio deployed on NextJS",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/rzoktan/personal-portfolio",
+    previewUrl: "/images/projects/1.png",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "/images/projects/2.png",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "/images/projects/3.png",
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const projectsData = [
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "/images/projects/6.png",
   },
   {
     id: 5,
@@ -47,8 +47,8 @@ const projectsData = [
     description: "Official minting site for flappyowl nft.",
     image: "/images/projects/5.png",
     tag: ["All", "Web3 DApp"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://flappyowl.fun",
+    previewUrl: "/images/projects/5.png",
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const projectsData = [
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "/images/projects/4.png",
   },
   {
     id: 7,
@@ -65,8 +65,8 @@ const projectsData = [
     description: "Is a dapp for live mint NFT.",
     image: "/images/projects/7.png",
     tag: ["All", "Web3 DApp"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://nftdrop-dapp.vercel.app/nft-drop",
+    previewUrl: "/images/projects/7.png",
   },
   {
     id: 8,
@@ -74,8 +74,8 @@ const projectsData = [
     description: "Nft project at polygon blockchain, this nft deployed based on chain.",
     image: "/images/projects/8.png",
     tag: ["All", "Smartcontracts"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://drrrttt.vercel.app/",
+    previewUrl: "/images/projects/8.png",
   },
   {
     id: 9,
@@ -83,8 +83,8 @@ const projectsData = [
     description: "This project nft testnet is deployed on ethereum goerli network.",
     image: "/images/projects/9.png",
     tag: ["All", "Smartcontracts"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://goerli.etherscan.io/address/0x106cC9D1A3A94D193e46Dfd6480BE3928Cc5Fe57",
+    previewUrl: "/images/projects/9.png",
   },
 ];
 
