@@ -41,7 +41,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I am a web developer, my experience in this field is more than 7 years.
+            I am a software developer, my experience in this field is more than 7 years.
           </p>
           <div>
             <Link
