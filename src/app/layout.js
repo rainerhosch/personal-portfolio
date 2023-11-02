@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Oktan Portfolio",
+  keywords: ["Next.js", "React", "JavaScript", "Portfolio", "Personal Web"],
   twitter: {
     card: "summary_large_image",
     title: "Rizky Oktan Portfolio",
