@@ -15,7 +15,7 @@ export const metadata = {
     siteId: "1467726470533754880",
     creator: "@nextjs",
     creatorId: "1467726470533754880",
-    images: ["https://flappyowl.vercel.app/newPict400x400-2.png"],
+    images: ["https://www.rzoktan.tech/images/logo.png"],
   },
   // images: ['https://rzoktan.tech/images/logo-new-black.png'],
 };
