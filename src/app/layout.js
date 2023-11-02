@@ -8,7 +8,7 @@ export const metadata = {
   title: "Rizky Oktan Official Personal Website",
   type: "article",
   description: "💬 Instagram: @kaleng.konguann | 🦜Twitter: @onchainmfer",
-  image: "https://rzoktan.tech/images/logo-new-black.png",
+  // image: "https://rzoktan.tech/images/logo-new-black.png",
 };
 
 export default function RootLayout({ children }) {
@@ -19,11 +19,11 @@ export default function RootLayout({ children }) {
         <meta
           property="og:description"
           content="💬 Instagram: @kaleng.konguann | 🦜Twitter: @onchainmfer"
-        />
+        /> */}
         <meta
           property="og:image"
           content="https://rzoktan.tech/images/logo-new-black.png"
-        /> */}
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
